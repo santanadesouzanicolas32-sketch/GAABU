@@ -3,7 +3,7 @@
 <p align="center">Landing page de aulas de Boxe e Muay Thai em Osasco/SP</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/GAABU/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/professor-gaabu-site/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/GAABU.git
-cd GAABU
+git clone https://github.com/santanadesouzanicolas32-sketch/professor-gaabu-site.git
+cd professor-gaabu-site
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
